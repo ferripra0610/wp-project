@@ -1,6 +1,6 @@
-##This is Wordpress PHP 8.3 Starter Kit
+## This is Wordpress PHP 8.3 Starter Kit
 
-#How To Use
+# How To Use
 - git clone https://github.com/ferripra0610/wp-project.git
 - docker-compose up --build -d
 - Frontend Site http://localhost:8080/
